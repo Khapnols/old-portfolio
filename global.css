@@ -1,0 +1,27 @@
+/*Renkler*/
+.bg-one {
+    background: #051622;
+}
+.bg-two {
+    background: #3C3C3B;
+}
+.bg-three {
+    background: #DEB992
+    ;
+}
+
+
+/* Text */
+
+.text-center {
+    text-align: center;
+}
+.heading-small {
+    font-size: 1.25rem;
+}
+.heading-medium {
+    font-size: 1.50rem;
+}
+.heading-big {
+    font-size: 1.75rem;
+}

@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: 
+Sitemap: https://emreyavuz.live/sitemap.xml

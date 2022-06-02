@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+
+#navbar {
+    flex-direction: column;
+    padding-top: 0.5rem;
+    padding-bottom: 0.5rem;
+    overflow: hidden;
+    height: 90px;
+}
+
+
+
+body {
+    background: rgb(42,169,255);
+background: radial-gradient(circle, rgba(42,169,255,1) 0%, rgba(63,255,236,1) 100%);
+    background-size: cover;
+    font-family:'Roboto', sans-serif;
+}
+#navbar ul li a {
+    color: black;
+    padding: 0.5rem;
+}
